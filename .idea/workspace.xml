@@ -2,20 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fc89548-3101-4b28-b36e-230ca73a82d4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/generics/package-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enums/package-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/company/Box.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/company/Color.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/company/Utils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generics/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Color.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/generics/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LabaFive2/com/generics/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/generics/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LabaFive2/com/generics/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/enums/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LabaFive2/enums/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/enums/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LabaFive2/enums/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/generics/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generics/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enums/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enums/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Utils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/sun_checks.xml" />
-    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
