@@ -1,4 +1,10 @@
-package com.company;
+package enums;
+
+/**
+ *
+ * Файл енумс с цветами.
+ *
+ */
 
 public enum Color {
 
@@ -13,22 +19,22 @@ public enum Color {
     WHITE("\u001B[37m");
 
     private String color;
+    private static final Integer NUM = 8;
 
-    Color(String color) {
-        this.color = color;
+    Color(final String color1) {
+        this.color = color1;
     }
 
     public String getColor() {
         return color;
     }
 
-    static String getRandomColor(){
+    static String getRandomColor() {
         int min = 1;
-        int max = 8;
+        int max = NUM;
         max -= min;
-        int Avg = (int)(Math.random() * max) + min;
-        String color = Color.values()[Avg].getColor();
-        return color;
+        double avg = (Math.random() * max) + min;
+        return Color.values()[(int) avg].getColor();
     }
 
 }

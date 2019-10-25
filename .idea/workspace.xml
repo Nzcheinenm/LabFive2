@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9fc89548-3101-4b28-b36e-230ca73a82d4" name="Default Changelist" comment="" />
+    <list default="true" id="9fc89548-3101-4b28-b36e-230ca73a82d4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/generics/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enums/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/company/Box.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/company/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LabaFive2/com/company/Utils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generics/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enums/Utils.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,10 +27,27 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="package-info" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SNCcQkZp9kvv8Sb9wZIOCgGgQm" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/sun_checks.xml" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="enums" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fizik\IdeaProjects\LabFive2\out\production\LabaFive2\com\Enums" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -30,7 +62,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.generics.Main" />
       <module name="LabaFive2" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
@@ -57,5 +89,18 @@
       <updated>1571394745573</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
